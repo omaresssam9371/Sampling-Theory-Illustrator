@@ -10,7 +10,7 @@
 1. **_Clone the repository_**
 
 ```sh
-$ git clone https://github.com/Yasien99/Sampling-Theory-Illustrator
+$ git clone https://github.com/omaresssam9371/Sampling-Theory-Illustrator
 ```
 2. **_Navigate to repository directory_**
 ```sh
